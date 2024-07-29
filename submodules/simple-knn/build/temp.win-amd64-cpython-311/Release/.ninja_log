@@ -1,0 +1,4 @@
+# ninja log v5
+1	14845	7318272392868035	G:/3d-gaussian/gaussian-splatting-main/gaussian-splatting-main/submodules/simple-knn/build/temp.win-amd64-cpython-311/Release/ext.obj	d76b863dc4b384fa
+5	16065	7318272405005904	G:/3d-gaussian/gaussian-splatting-main/gaussian-splatting-main/submodules/simple-knn/build/temp.win-amd64-cpython-311/Release/simple_knn.obj	9f8720b5d60defef
+49	46470	7318272705984062	G:/3d-gaussian/gaussian-splatting-main/gaussian-splatting-main/submodules/simple-knn/build/temp.win-amd64-cpython-311/Release/spatial.obj	1c41279c3108168d
